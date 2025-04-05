@@ -1,6 +1,7 @@
 Here’s a detailed comparison between **List**, **Tuple**, **Dictionary**, and **Set** in Python:
 
 ### 1. **List**  
+It is use to store multiple items in a single variable.
 A list is an **ordered** collection of items that can hold elements of **different data types**. Lists are **mutable**, meaning you can modify them after creation (add, remove, change elements).
 
 - **Syntax**:  
