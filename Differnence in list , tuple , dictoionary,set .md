@@ -5,7 +5,7 @@ A list is an **ordered** collection of items that can hold elements of **differe
 
 - **Syntax**:  
   ```python
-  my_list = [1, 2, 3, "apple", True]
+  my_list = [1, 2, 3,4, "apple", True]
   ```
 
 - **Characteristics**:
