@@ -1,6 +1,10 @@
-Absolutely! Let's dive into **loops** in Python. Loops allow you to **repeat a block of code** multiple times without having to write the same code over and over again. There are two main types of loops in Python: the **for loop** and the **while loop**.
+ Let's dive into **loops** in Python. Loops allow you to **repeat a block of code** multiple times without having to write the same code over and over again. There are two main types of loops in Python: the **for loop** and the **while loop**.
 
 ### 1. **For Loop**
+ In this we know about the start and ending value. Syntax: 
+ user_input = int (input("enter num:"))
+ for numbr in range (1,11):
+ print (numbr*user_input)
 A **for loop** is used to **iterate** over a sequence (like a list, tuple, string, etc.) or a range of numbers. It is used when you know in advance how many times you want to repeat the action.
 
 #### Syntax:
