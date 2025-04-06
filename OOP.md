@@ -1,7 +1,7 @@
 The basics of **Object-Oriented Programming (OOP)** in Python in the simplest way possible. OOP is a programming paradigm that organizes software design around **objects** and **classes**. It's a way of modeling real-world things using code. It’s widely used in the software industry and is essential to understand for modern programming.
 
 ### 1. **What is OOP?**
-OOP is based on the concept of **objects** and **classes**. A class is like a blueprint, and an object is an instance of that class. OOP focuses on **data** and **behavior** (methods).
+OOP is based on the concept of **objects** and **classes**. A class is like a blueprint, or in easy wordwe can say it is a template and in this templte fun are calledby creting objects. and an object is an instance of that class. OOP focuses on **data** and **behavior** (methods).
 
 ### 2. **Core Concepts of OOP:**
 There are four main principles of OOP:
